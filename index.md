@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: "PPS-23-Ulisse"
-  text: "The train simulator"
+  name: "Project Manager - Gruppo 2"
+  text: "Pizza Delivered Quickly"
   tagline: Progetto di PPS
+
   actions:
     - theme: brand
       text: Report

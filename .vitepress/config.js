@@ -7,7 +7,7 @@ let processPath = '/process'
 
 export default withMermaid(
     defineConfig({
-        base: '/PM-Gruppo2',
+        base: '/PM-Gruppo2/',
         title: "PM-Gruppo2",
         description: "Ulisse an Train Infrastructure Similator",
         themeConfig: {
