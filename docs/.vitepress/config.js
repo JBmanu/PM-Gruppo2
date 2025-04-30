@@ -50,7 +50,7 @@ export default withMermaid(
             ],
 
             socialLinks: [
-                {icon: 'github', link: 'https://github.com/dev-pps/pps-23-ulisse'}
+                {icon: 'github', link: 'https://github.com/JBmanu/PM-Gruppo2'}
             ]
         }
     })
