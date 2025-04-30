@@ -7,8 +7,8 @@ let processPath = '/process'
 
 export default withMermaid(
     defineConfig({
-        base: '/pps-23-ulisse',
-        title: "PPS-23-Ulisse",
+        base: '/PM-Gruppo2',
+        title: "PM-Gruppo2",
         description: "Ulisse an Train Infrastructure Similator",
         themeConfig: {
             // https://vitepress.dev/reference/default-theme-config
