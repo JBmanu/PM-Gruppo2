@@ -1,0 +1,19 @@
+{
+  "name": "PM-Gruppo2",
+  "version": "1.0.0",
+  "description": "Awesome Train Simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBmanu/PM-Gruppo2.git"
+  },
+  "keywords": [
+    "Project Management"
+  ],
+  "author": "dev-pps",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/JBmanu/PM-Gruppo2#readme"
+}
