@@ -24,7 +24,7 @@ export default withMermaid(
                         {text: 'Proposte del committente', link: `${reportPath}/2-proposte-del-committente`},
                         {text: 'Project overview statements', link: `${reportPath}/3-POS`},
                         {text: 'Requirements breakdown structure', link: `${reportPath}/4-RBS`},
-                        {text: 'Domande', link: `${reportPath}/6-domande`},
+                        {text: 'Domande', link: `${reportPath}/5-domande`},
                     ]
                 },
             ],

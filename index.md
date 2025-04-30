@@ -11,12 +11,12 @@ hero:
     - theme: brand
       text: Report
       link: report/0-intro
-      
-contacts:
-  - name: "Alice Rossi"
-    email: "alice@example.com"
-  - name: "Marco Bianchi"
-    email: "marco@example.com"
-  - name: "Giulia Verdi"
-    email: "giulia@example.com"
 ---
+
+## Componenti del Gruppo
+
+- **Manuel Buizo**: juliomanuel.buizo@studio.unibo.it 
+- **Alice Alfonsi**: alice.alfonsi2@studio.unibo.it
+- **Mara Pulighe**: mara.pulighe@studio.unibo.it
+- **Corrado Stortini**: corrado.stortini2@studio.unibo.it
+- **Alex Testa**: alex.testa@studio.unibo.it
