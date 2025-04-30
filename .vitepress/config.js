@@ -20,31 +20,11 @@ export default withMermaid(
                 {text: 'Report',
                     items: [
                         {text: 'Introduzione', link: `${reportPath}/0-intro`},
-                        {text: 'Processo di sviluppo', link: `${reportPath}/1-dev-process`},
-                        {text: 'Requisiti', link: `${reportPath}/2-requirement`},
-                        {text: 'Design architetturale', link: `${reportPath}/3-arch-design`},
-                        {text: 'Design di dettaglio', link: `${reportPath}/4-details-design`},
-                        {text: 'Implementazione',
-                            items: [
-                                {text: 'Bravetti Federico', link: `${reportPath}/5-impl-bravetti`},
-                                {text: 'Montesinos Buizo Julio Manuel', link: `${reportPath}/5-impl-buizo`},
-                                {text: 'Violani Matteo', link: `${reportPath}/5-impl-violani`},
-                            ]
-                        },
-                        {text: 'Testing', link: `${reportPath}/6-testing`},
-                        {text: 'Retrospettiva', link: `${reportPath}/7-retrospective`},
-                    ]
-                },
-                {text: 'Artefatti del processo di sviluppo',
-                    items: [
-                        {text: 'Sprint 1', link: `${processPath}/sprint-1`},
-                        {text: 'Sprint 2', link: `${processPath}/sprint-2`},
-                        {text: 'Sprint 3', link: `${processPath}/sprint-3`},
-                        {text: 'Sprint 4', link: `${processPath}/sprint-4`},
-                        {text: 'Sprint 5', link: `${processPath}/sprint-5`},
-                        {text: 'Sprint 6', link: `${processPath}/sprint-6`},
-                        {text: 'Sprint 7', link: `${processPath}/sprint-7`},
-                        {text: 'Sprint 8', link: `${processPath}/sprint-8`},
+                        {text: 'Aspettative del committente', link: `${reportPath}/1-aspettative-del-committente`},
+                        {text: 'Proposte del committente', link: `${reportPath}/2-proposte-del-committente`},
+                        {text: 'Project overview statements', link: `${reportPath}/3-POS`},
+                        {text: 'Requirements breakdown structure', link: `${reportPath}/4-RBS`},
+                        {text: 'Domande', link: `${reportPath}/6-domande`},
                     ]
                 },
             ],
