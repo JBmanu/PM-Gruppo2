@@ -1,0 +1,18 @@
+@startuml soluzione-diagramma
+
+rectangle "Soluzione" as Soluzione {
+  component OrderEntry
+  component Logistics
+  component PizzaFactoryLocator
+  component OrderSubmit
+  component Routing
+  component IntentoryManagement
+
+  OrderEntry <--> Logistics
+  OrderEntry --> PizzaFactoryLocator
+  Logistics <--> OrderSubmit
+  Logistics <--> Routing
+  Logistics <--> IntentoryManagement
+}
+
+@enduml

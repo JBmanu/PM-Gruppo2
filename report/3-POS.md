@@ -39,6 +39,20 @@
     </td>
   </tr>
   <tr>
+    <th>Risks</th>
+    <td>
+      <a href="POS-AnalisiRischi.md">
+        Tabella dei rischi
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Obstacles</th>
+    <td>
+      Resistenza al cambiamento da parte del personale.
+    </td>
+  </tr>
+  <tr>
     <th>Assumptions</th>
     <td>
       <ul>
@@ -60,7 +74,7 @@
   <tr>
     <th>Risks</th>
     <td>
-      <a href="2-proposte-del-committente.md">
+      <a href="POS-AnalisiRischi.md">
         Tabella dei rischi
       </a>
     </td>
