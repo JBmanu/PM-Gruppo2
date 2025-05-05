@@ -1,19 +1,19 @@
-## Analisi dei rischi
+# Analisi dei rischi
 
-### Tecnical risks
+## Tecnical risks
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
 |Basse performance|Qualità|Medio|Evitare|
 
-#### Pizza factory locator subsystem
+### Pizza factory locator subsystem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
 |Bilanciamento numero e posizione delle factory|Costi|Alto|Mitigazione|
 |Difficoltà di integrare il locator subsystem con gli altri|Scope|Medio|Piano di contingenza|
 
-#### Order entry subsystem
+### Order entry subsystem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
@@ -22,13 +22,13 @@
 |Capacità del sistema insufficiente per il numero di ordini in arrivo|Risorse|Medio|Piano di contingenza|
 |Difficoltà di integrare l’order entry subsystem con gli altri|Scope|Alto|Piano di contingenza|
 
-#### Order submit subsytem
+### Order submit subsytem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
 |Difficoltà di integrare l’order submit subsystem con gli altri|Scope|Alto|Piano di contingenza|
 
-#### Logistics subsystem
+### Logistics subsystem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
@@ -37,13 +37,13 @@
 |Assegnazione ordine ad un rider che non sia il più ottimale|Tempo|Alto|Evitare|
 |Difficoltà di integrare il logistics subsystem con gli altri|Scope|Alto|Evitare|
 
-#### Routing subsystem
+### Routing subsystem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
 |Difficoltà di integrare il routing subsystem con gli altri|Scope|Basso|Accetto|
 
-#### Inventory management subsystem
+### Inventory management subsystem
 
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
@@ -51,12 +51,12 @@
 |Bilanciamento tra materie prime e domanda|Risorse|Alto|Trasferisco|
 |Difficoltà di integrare l’inventory management subsystem con gli altri|Scope|Medio|Mitigazione|
 
-### External risks
+## External risks
 |Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
 |Problemi con i fornitori|Costi|Medio|Mitigazione|
 
-### Project management risks
+## Project management risks
 
 Event|Scope triangle|Impact|Mitigate|
 |---|---|---|---|
