@@ -1,4 +1,4 @@
-# POS - Project overview statements
+# POS - Project Overview Statement
 
 <table>
   <tr>
