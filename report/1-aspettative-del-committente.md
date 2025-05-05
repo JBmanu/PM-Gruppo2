@@ -33,7 +33,6 @@
       ordini in modo automatizzato
     - store per eat-in con ordinazione tramite applicazione o terminali di ordinazione, asporto e delivery
     - pizza factory per asporto e delivery in posizione strategica da individuarsi tramite applicazione software
-    - pizza van per asporto e delivery
     - tempi di consegna inferiori a 45 minuti
     - ordini attraverso un’unica applicazione che assegna la pizzeria che permette di avere la consegna più veloce
     - riorganizzazione del personale
@@ -42,6 +41,7 @@
 
 * NICE-TO-HAVE:
     - produzione di pizze precotte con tempi di consegna inferiori a 30 minuti
+    - pizza van per asporto e delivery
 
 ## COS: Conditions of satisfaction
 
