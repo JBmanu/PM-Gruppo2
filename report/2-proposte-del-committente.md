@@ -12,52 +12,58 @@
 
 ### Pizza factory locator subsystem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Design in continuo cambiamento|Scope|Alto|Alto|
-||Bilanciamento numero e posizione delle factory|Costi|Alto|Medio|
-||Difficoltà di integrare il locator subsystem con gli altri|Scope|Alto|Alto|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Design in continuo cambiamento|Scope|Alto|Alto|
+|Bilanciamento numero e posizione delle factory|Costi|Alto|Medio|
+|Difficoltà di integrare il locator subsystem con gli altri|Scope|Alto|Alto|
 
 ### Order entry subsystem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Mancanza di UX|Qualità|Medio|Alto|
-||Basse performance|Qualità|Medio|Medio|
-||Supporto utente non adeguato|Qualità|Medio|Basso|
-||Quantità troppo elevata di ordini|Risorse|Medio|Basso|
-||Difficoltà di integrare l’order entry subsystem con gli altri|Scope|Alto|Medio|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Mancanza di UX|Qualità|Medio|Alto|
+|Basse performance|Qualità|Medio|Medio|
+|Supporto utente non adeguato|Qualità|Medio|Basso|
+|Quantità troppo elevata di ordini|Risorse|Medio|Basso|
+|Difficoltà di integrare l’order entry subsystem con gli altri|Scope|Alto|Medio|
 
 ### Order submit subsytem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Design del sottosistema complesso|Scope|Alto|Alto|
-||Difficoltà di integrare l’order submit subsystem con gli altri|Scope|Alto|Alto|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Design del sottosistema complesso|Scope|Alto|Alto|
+|Difficoltà di integrare l’order submit subsystem con gli altri|Scope|Alto|Alto|
 
 ### Logistics subsystem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Catena di produzione sovraccaricata di ordini|Tempo|Alto|Basso|
-||Assegnazione ordine ad una catena di produzione che non sia la più ottimale|Tempo|Alto|Alto|
-||Assegnazione ordine ad un rider che non sia il più ottimale|Tempo|Alto|Alto|
-||Design del sottosistema complesso|Scope|Alto|Alto|
-||Difficoltà di integrare il logistics subsystem con gli altri|Scope|Alto|Alto|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Catena di produzione sovraccaricata di ordini|Tempo|Alto|Basso|
+|Assegnazione ordine ad una catena di produzione che non sia la più ottimale|Tempo|Alto|Alto|
+|Assegnazione ordine ad un rider che non sia il più ottimale|Tempo|Alto|Alto|
+|Design del sottosistema complesso|Scope|Alto|Alto|
+|Difficoltà di integrare il logistics subsystem con gli altri|Scope|Alto|Alto|
 
 ### Routing subsystem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Difficoltà di integrare il routing subsystem con gli altri|Scope|Basso|Basso|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Difficoltà di integrare il routing subsystem con gli altri|Scope|Basso|Basso|
 
 ### Inventory management subsystem
 
-|Categoria|Descrizione|Scope triangle|Impatto|Mitigazione|
-|---|---|---|---|---|
-||Bilanciamento tra costi e disponibilità|Costi|Medio|Medio|
-||Bilanciamento tra materie prime e domanda|Risorse|Alto|Basso|
-||Difficoltà di integrare l’inventory management subsystem con gli altri|Scope|Medio|Basso|
+|Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Bilanciamento tra costi e disponibilità|Costi|Medio|Medio|
+|Bilanciamento tra materie prime e domanda|Risorse|Alto|Basso|
+|Difficoltà di integrare l’inventory management subsystem con gli altri|Scope|Medio|Basso|
+
+### Project management risks
+
+Descrizione|Scope triangle|Impatto|Mitigazione|
+|---|---|---|---|
+|Scarsa cura nell'allocazione delle risorse|Risorse|Alto|Medio|
 
 ## Valutazione delle proposte
 

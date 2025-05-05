@@ -13,14 +13,14 @@
     <th>Objectives</th>
     <td>
       <ul>
-        <li> 
-          soluzioni software per ricezione, processamento, tracciamento degli ordini, assegnazione dei rider agli ordini e approvvigionamento in modo automatizzato 
+        <li>
+          Soluzioni software per ricezione, processamento, tracciamento degli ordini, assegnazione dei rider agli ordini e approvvigionamento in modo automatizzato.
         </li>
         <li>
-          pizza factory per asporto e delivery in posizione strategica da individuarsi tramite applicazione software
+          Pizza factory per asporto e delivery in posizione strategica da individuarsi tramite applicazione software.
         </li>
         <li>
-          riorganizzazione del personale
+          Riorganizzazione del personale.
         </li>
       </ul>
     </td>
@@ -39,13 +39,36 @@
     </td>
   </tr>
   <tr>
-    <th>Assumptions, Risk, Obstacles</th>
+    <th>Assumptions</th>
     <td>
       <ul>
         <li>
-          
+          Rider automuniti.
+        </li>
+        <li>
+          Rider muniti di dispositivi elettronici con internet e GPS.
+        </li>
+        <li>
+          Assistenza clienti 24/7.
+        </li>
+        <li>
+          Assunzione di nuovo personale.
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Risks</th>
+    <td>
+      <a href="2-proposte-del-committente.md">
+        Tabella dei rischi
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Obstacles</th>
+    <td>
+      Resistenza al cambiamento da parte del personale.
     </td>
   </tr>
 </table>
