@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <th>Goal</th>
-    <td>Riorganizzazione risorse e processi aziendali con supporto di un sistema software per garantire la consegna delle pizze entro 45 minuti dall'ordine.</td>
+    <td>Riorganizzazione risorse e processi aziendali con supporto di un sistema software per garantire la consegna delle pizze entro 45 minuti dall'ordine per tornare al breakeven point.</td>
   </tr>
   <tr>
     <th>Objectives</th>
@@ -26,13 +26,26 @@
     </td>
   </tr>
   <tr>
-    <th>Success/Criteria</th>
+    <th>Success criteria</th>
     <td>
-      Tempo di consegna delle pizze minore di 45 minuti.
+      <ul>
+        <li>
+          Tempo di consegna delle pizze minore di 45 minuti.
+        </li>
+        <li>
+          Ritorno al breakeven point.
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
     <th>Assumptions, Risk, Obstacles</th>
-    <td></td>
+    <td>
+      <ul>
+        <li>
+          
+        </li>
+      </ul>
+    </td>
   </tr>
 </table>
