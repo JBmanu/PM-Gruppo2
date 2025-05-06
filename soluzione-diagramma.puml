@@ -6,13 +6,13 @@ rectangle "Soluzione" as Soluzione {
   component PizzaFactoryLocator
   component OrderSubmit
   component Routing
-  component IntentoryManagement
+  component InventoryManagement
 
   OrderEntry <--> Logistics
   OrderEntry --> PizzaFactoryLocator
   Logistics <--> OrderSubmit
   Logistics <--> Routing
-  Logistics <--> IntentoryManagement
+  Logistics <--> InventoryManagement
 }
 
 @enduml
