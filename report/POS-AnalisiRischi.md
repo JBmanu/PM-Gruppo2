@@ -51,10 +51,6 @@
 |Bilanciamento tra materie prime e domanda|Risorse|Alto|Trasferisco|
 |Difficoltà di integrare l’inventory management subsystem con gli altri|Scope|Medio|Mitigazione|
 
-## External risks
-|Event|Scope triangle|Impact|Mitigate|
-|---|---|---|---|
-|Problemi con i fornitori|Costi|Medio|Mitigazione|
 
 ## Project management risks
 
