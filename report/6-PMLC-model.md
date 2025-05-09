@@ -13,7 +13,7 @@ feedback continuo da parte del cliente.
 
 Metodologia: Incrementale
 
-Motivazione: 
+Motivazione: La soluzione è destinata ad attività di routine, che non subiranno significativi cambiamenti in termini di requisiti.
 
 ## Logistics Subsystem
 
