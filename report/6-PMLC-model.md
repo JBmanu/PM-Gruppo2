@@ -19,7 +19,7 @@ Motivazione: La soluzione è destinata ad attività di routine, che non subirann
 
 Metodologia: Adattiva
 
-Motivazione: La soluzione non è nota, è molto complessa e determinante per il successo del progetto.
+Motivazione: La soluzione non è nota, è molto complessa e riveste un ruolo essenziale nello scoping del progetto.
 
 ## Routing Subsystem
 

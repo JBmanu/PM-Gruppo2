@@ -10,7 +10,7 @@ graph LR
             R1.F1 --> R1.F1.SF3[SF3. Invio indirizzo e timestamp al pizza factory locator subsystem]
             R1.F1 --> R1.F1.SF4[SF4. Tracciamento ordine in tempo reale]
             R1.F1 --> R1.F1.SF5[SF5. Installazione terminali di ordinazione]
-            R1.F1 --> R1.F1.SF6[SF6. UX: Facilià nell'utilizzo lato utente]
+            R1.F1 --> R1.F1.SF6[SF6. UX: Facilità nell'utilizzo lato utente]
             R1.F1 --> R1.F1.SF7[SF7. UI: Design system piacevole per l'utente]
             R1.F1 --> R1.F1.SF8[SF8. Capacità di gestire picchi di accesso e interazione]
             R1.F1 --> R1.F1.SF9[SF9. Servizio sempre attivo]
@@ -22,7 +22,7 @@ graph LR
             R1.F2 --> R1.F2.SF3[SF3. Notifica al logistics subsystem dell'ordine pronto]
             R1.F2 --> R1.F2.SF4[SF4. Notifica al logistics subsystem delle nuove disponibilità]
             R1.F2 --> R1.F2.SF5[SF5. Notifica al logistics subsystem delle risorse consumate per ogni ordine]
-            R1.F2 --> R1.F2.SF6[SF6. UX: Facilià nell'utilizzo lato utente]
+            R1.F2 --> R1.F2.SF6[SF6. UX: Facilità nell'utilizzo lato utente]
             R1.F2 --> R1.F2.SF7[SF7. UI: Design system piacevole per l'utente]
             R1.F2 --> R1.F2.SF8[SF8. Capacità di gestire picchi di accesso e interazione]
             R1.F2 --> R1.F2.SF9[SF9. Servizio sempre attivo]
@@ -39,7 +39,7 @@ graph LR
                 R1.F3.SF3 --> R1.F3.SF3.SSF3[SSF3. Notifica al rider dell'ordine e dell'indirizzo di consegna]
             R1.F3 --> R1.F3.SF4[SF4. Notifica al routing subsystem che l'ordine è pronto per il ritiro]
             R1.F3 --> R1.F3.SF5[SF5. Invio della lista della spesa all'inventory management subsystem]
-            R1.F3 --> R1.F3.SF6[SF6. UX: Facilià nell'utilizzo lato utente]
+            R1.F3 --> R1.F3.SF6[SF6. UX: Facilità nell'utilizzo lato utente]
             R1.F3 --> R1.F3.SF7[SF7. UI: Design system piacevole per l'utente]
             R1.F3 --> R1.F3.SF8[SF8. Capacità di gestire picchi di accesso e interazione]
             R1.F3 --> R1.F3.SF9[SF9. Servizio sempre attivo]
@@ -50,7 +50,7 @@ graph LR
             R1.F4 --> R1.F4.SF2[SF2. Ricezione posizione clienti con relativo ordine]
             R1.F4 --> R1.F4.SF3[SF3. Notifica ordine completato alla logistica]
             R1.F4 --> R1.F4.SF4[SF4. Tracciamento in tempo reale della posizione del rider]
-            R1.F4 --> R1.F4.SF5[SF5. UX: Facilià nell'utilizzo lato utente]
+            R1.F4 --> R1.F4.SF5[SF5. UX: Facilità nell'utilizzo lato utente]
             R1.F4 --> R1.F4.SF6[SF6. UI: Design system piacevole per l'utente]
             R1.F4 --> R1.F4.SF7[SF7. Capacità di gestire picchi di accesso e interazione]
             R1.F4 --> R1.F4.SF8[SF8. Servizio sempre attivo]
@@ -60,7 +60,7 @@ graph LR
             R1.F5 --> R1.F5.SF1[SF1. Ricezione della lista della spesa]
             R1.F5 --> R1.F5.SF2[SF2. Acquisto delle risorse necessarie]
             R1.F5 --> R1.F5.SF3[SF3. Notifica al logistics subsystem dei costi sostenuti]
-            R1.F5 --> R1.F5.SF4[SF4. UX: Facilià nell'utilizzo lato utente]
+            R1.F5 --> R1.F5.SF4[SF4. UX: Facilità nell'utilizzo lato utente]
             R1.F5 --> R1.F5.SF5[SF5. UI: Design system piacevole per l'utente]
             R1.F5 --> R1.F5.SF6[SF6. Capacità di gestire picchi di accesso e interazione]
             R1.F5 --> R1.F5.SF7[SF7. Servizio sempre attivo]
@@ -71,7 +71,7 @@ graph LR
             R2.F1 --> R2.F1.SF1[SF1. Ricezione indirizzo e timestamp vecchi ordini]
             R2.F1 --> R2.F1.SF2[SF2. Elaborazione posizioni ottimali per le pizza factory]
             R2.F1 --> R2.F1.SF3[SF3. Notifica posizioni ottimali per le pizza factory]
-            R2.F1 --> R2.F1.SF4[SF4. UX: Facilià nell'utilizzo lato utente]
+            R2.F1 --> R2.F1.SF4[SF4. UX: Facilità nell'utilizzo lato utente]
             R2.F1 --> R2.F1.SF5[SF5. UI: Design system piacevole per l'utente]
             R2.F1 --> R2.F1.SF6[SF6. Capacità di gestire picchi di accesso e interazione]
             R2.F1 --> R2.F1.SF7[SF7. Servizio sempre attivo]
@@ -82,6 +82,7 @@ graph LR
     Goal --> R3[R3. Ristrutturazione Personale]
         R3 --> R3.F1[F1. Ridefinizione ruoli e responsabilità]
             R3.F1 --> R3.F1.SF1[SF1. Assegnazione ruoli]
+                R3.F1.SF1 --> R3.F1.SF1.SSF1[SSF1. Assunzione nuovo personale]
         R3 --> R3.F2[F3. Piano di comunicazione interna]
         R3 --> R3.F3[F2. Rielaborazione contratti di lavoro]
         R3 --> R3.F4[F4. Change Management]
@@ -108,7 +109,7 @@ graph LR
 | Utente | Visualizzare lo storico degli ordini                    | Posso scegliere di riacquistare pizze/bevande |
 | Utente | Selezionare la/le pizza/e da ordinare                   | Inserisco la/e pizza/e nel carrello           |
 | Utente | Selezionare la/le bevanda/e da ordinare                 | Inserisco la/e bevanda/e nel carrello         |
-| Utente | Visualizzare il carrello                                | Verificare il dettaglio dell'ordine           |
+| Utente | Visualizzare il carrello                                | Posso verificare il dettaglio dell'ordine     |
 | Utente | Effettuare il pagamento                                 | Posso confermare l'ordine                     |
 | Utente | Visualizzare l'orario previsto di ricezione dell'ordine | Posso organizzarmi per ricevere l'ordine      |
 | Utente | Monitorare lo stato dell'ordine                         | Posso essere aggiornato in tempo reale        |

@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <th>Goal</th>
-    <td>Riorganizzazione risorse e processi aziendali con supporto di un sistema software per garantire la consegna delle pizze entro 45 minuti dall'ordine per tornare al breakeven point.</td>
+    <td>Riorganizzazione risorse e processi aziendali con supporto di un sistema software per garantire la consegna delle pizze in tempi inferiori a 45 minuti dall'ordine per raggiungere il breakeven point.</td>
   </tr>
   <tr>
     <th>Objectives</th>
@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <th>Success criteria</th>
+    <th>Success Criteria</th>
     <td>
       <ul>
         <li>
@@ -50,9 +50,6 @@
         </li>
         <li>
           Assistenza clienti 24/7.
-        </li>
-        <li>
-          Assunzione di nuovo personale.
         </li>
       </ul>
     </td>

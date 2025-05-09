@@ -3,15 +3,15 @@
 ## Desideri-Bisogni
 
 - Desideri:
-    1. Pizze già pronte: tempo di consegna <= 45 minuti
-    2. Pizze precotte: tempo di consegna <= 30 minuti
+    1. Pizze già pronte: tempo di consegna < 45 minuti
+    2. Pizze precotte: tempo di consegna < 30 minuti
     3. Pizza factory per ricezione, preparazione e consegna pizze
     4. Ricezione ordini centralizzata
     5. Presa in carico dell’ordine dalla factory più vicina
     6. Applicazione software per identificare le posizioni strategiche per le pizza factory e gestirle
 
 - Bisogni (in ordine di priorità):
-    1. Pizze già pronte: tempo di consegna <= 45 minuti
+    1. Pizze già pronte: tempo di consegna < 45 minuti
     2. Ricezione ordini centralizzata
     3. Scelta della catena di produzione che prenderà in carico l’ordine
     4. Criterio di consegna delle pizze
@@ -37,16 +37,16 @@
     - ordini attraverso un’unica applicazione che assegna la pizzeria che permette di avere la consegna più veloce
     - riorganizzazione del personale
     - delivery fatto con personale interno
-    - gestione dell’approvvigionamento dato in outsourcing
+    - gestione dell’approvvigionamento centralizzata
 
 * NICE-TO-HAVE:
     - produzione di pizze precotte con tempi di consegna inferiori a 30 minuti
     - pizza van per asporto e delivery
 
-## COS: Conditions of satisfaction
+## CoS: Conditions of Satisfaction
 
 - soddisfacimento del cliente
 - la qualità del prodotto deve essere mantenuta
 - stabilire ruoli e responsabilità
-- design e interfaccia delle applicazioni software flessibile e intuitiva (UI/UX)
+- design della soluzione software modulare e interfaccia delle applicazioni intuitiva (UI/UX)
 - approvvigionamento che si adatta alla domanda

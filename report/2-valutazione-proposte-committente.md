@@ -1,12 +1,12 @@
 ﻿# Valutazione delle proposte del committente
 
 ## Proposte del committente
-- Pizza Factory Locator Subsystem (posizionamento strategico delle pizza factory)
-- Order Entry Subsystem (gestione degli ordini)
-- Order Submit Subsystem (gestione dello smistamento degli ordini)
-- Logistics Subsystem (gestione della presa in carica dell’ordine e delivery)
-- Routing Subsystem (gestione per il delivery con GPS)
-- Inventory Management Subsystem (gestione delle forniture)
+- Pizza Factory Locator Subsystem
+- Order Entry Subsystem
+- Order Submit Subsystem
+- Logistics Subsystem
+- Routing Subsystem
+- Inventory Management Subsystem
 
 ## Diagramma della soluzione complessiva
 
