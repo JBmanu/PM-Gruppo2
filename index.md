@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Report
-      link: report/0-intro
+      link: report/1-process-scoping
 ---
 
 ## Componenti del Gruppo

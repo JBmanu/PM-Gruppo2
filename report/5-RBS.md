@@ -33,7 +33,7 @@ graph LR
             R1.F3 --> R1.F3.SF2[SF2. Assegnazione ordine alla catena di produzione ottimale]
                 R1.F3.SF2 --> R1.F3.SF2.SSF1[SSF1. Scelta della catena di produzione ottimale]
                 R1.F3.SF2 --> R1.F3.SF2.SSF2[SSF2. Invio all'order submit subsystem l'ordine e la catena scelta]
-            R1.F3 --> R1.F3.SF3[Feat3. Assegnazione ordine al rider ottimale]
+            R1.F3 --> R1.F3.SF3[SF3. Assegnazione ordine al rider ottimale]
                 R1.F3.SF3 --> R1.F3.SF3.SSF1[SSF1. Scelta del rider ottimale]
                 R1.F3.SF3 --> R1.F3.SF3.SSF2[SSF2. Notifica al rider dell'indirizzo della catena di produzione]
                 R1.F3.SF3 --> R1.F3.SF3.SSF3[SSF3. Notifica al rider dell'ordine e dell'indirizzo di consegna]
