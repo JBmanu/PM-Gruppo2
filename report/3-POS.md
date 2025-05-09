@@ -57,7 +57,7 @@
   <tr>
     <th>Risks</th>
     <td>
-      <a href="POS-AnalisiRischi">
+      <a href="4-POS-AnalisiRischi">
         Tabella dei rischi
       </a>
     </td>
